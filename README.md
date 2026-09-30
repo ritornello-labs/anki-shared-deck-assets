@@ -104,3 +104,5 @@ Images here are for representing the linked shared decks. Rights and
 attribution for historical-map and artwork sources remain with the respective
 sources shown on the cards. Do not treat a screenshot as a replacement for a
 deck's original source or media attribution.
+
+Support continued development: [ritornello.dev/support](https://ritornello.dev/support).
