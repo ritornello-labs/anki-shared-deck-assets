@@ -21,3 +21,9 @@ This repository is a public, presentation-only asset host for AnkiWeb deck listi
 - Treat every file here as publicly visible.
 - Keep filenames stable once used by an AnkiWeb description.
 - Sign commits with GPG and push meaningful updates promptly.
+
+## Publication safety
+
+Follow `docs/PUBLICATION_PROCESS.md`. Install the shared frozen local hooks before
+public pushes and keep the pinned quiet publication check required on main.
+Keep detailed audit findings outside Git; unsupported formats block publication.
