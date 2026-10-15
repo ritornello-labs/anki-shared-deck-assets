@@ -1,10 +1,15 @@
 # Anki Shared Deck Assets
 
+[Explore all Ritornello decks and add-ons](https://ritornello.dev/).
+
 [![Public AnkiWeb listing assets](https://img.shields.io/badge/AnkiWeb-listing%20assets-2f80ed)](https://ankiweb.net/)
 [![Rendered in disposable Anki](https://img.shields.io/badge/rendered%20in-disposable%20Anki-16A34A)](https://github.com/ritornello-labs/anki-addon-workbench)
 
 Public presentation images used by AnkiWeb listings for decks whose source
 repositories are private or intentionally unpublished.
+
+New listing media and GIFs are hosted by [ritornello.dev](https://ritornello.dev/).
+Existing screenshot filenames here remain stable for older listings.
 
 This repository contains only rendered screenshots. It deliberately excludes
 APKG files, source data, build configuration, private collection details, and
